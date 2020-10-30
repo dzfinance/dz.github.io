@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dz.github.io/static/css/main.c4764aba.chunk.css",
+    "main.js": "/dz.github.io/static/js/main.a771e7b8.chunk.js",
+    "main.js.map": "/dz.github.io/static/js/main.a771e7b8.chunk.js.map",
+    "runtime-main.js": "/dz.github.io/static/js/runtime-main.e7ea6483.js",
+    "runtime-main.js.map": "/dz.github.io/static/js/runtime-main.e7ea6483.js.map",
+    "static/css/2.16e56040.chunk.css": "/dz.github.io/static/css/2.16e56040.chunk.css",
+    "static/js/2.afc743a8.chunk.js": "/dz.github.io/static/js/2.afc743a8.chunk.js",
+    "static/js/2.afc743a8.chunk.js.map": "/dz.github.io/static/js/2.afc743a8.chunk.js.map",
+    "index.html": "/dz.github.io/index.html",
+    "precache-manifest.03ec0a20cbc4b0cca860df3065d0da48.js": "/dz.github.io/precache-manifest.03ec0a20cbc4b0cca860df3065d0da48.js",
+    "service-worker.js": "/dz.github.io/service-worker.js",
+    "static/css/2.16e56040.chunk.css.map": "/dz.github.io/static/css/2.16e56040.chunk.css.map",
+    "static/css/main.c4764aba.chunk.css.map": "/dz.github.io/static/css/main.c4764aba.chunk.css.map",
+    "static/js/2.afc743a8.chunk.js.LICENSE.txt": "/dz.github.io/static/js/2.afc743a8.chunk.js.LICENSE.txt",
+    "static/media/Photo Aug 17, 5 03 08 PM-4.jpg": "/dz.github.io/static/media/Photo Aug 17, 5 03 08 PM-4.bf14a6a6.jpg",
+    "static/media/font-awesome.css": "/dz.github.io/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7ea6483.js",
+    "static/css/2.16e56040.chunk.css",
+    "static/js/2.afc743a8.chunk.js",
+    "static/css/main.c4764aba.chunk.css",
+    "static/js/main.a771e7b8.chunk.js"
+  ]
+}
